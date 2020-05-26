@@ -1,0 +1,277 @@
+{
+  "main": {
+    "name": "Elizabeth Lipton",
+    "occupation": "Developer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "I'm a developer with a strong digital marketing background. I have experience with a variety of languages, frameworks and platforms (check some of them out below) and enjoy learning new things. I play broomball sometimes and often stop to pet dogs.",
+    "email": "lipton.elizabeth@gmail.com",
+    "address": {
+      "city": "Cincinnati",
+      "state": "Ohio"
+    },
+    "website": "http://elizabethalipton.com/",
+    "resumedownload": "/pdf/Elizabeth-Lipton.pdf",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/bethlipton",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/elizabethlipton/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/bethlipton/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/bethlipton",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I have experience with the following languages, frameworks, and programs. This is not an all-inclusive list.",
+    "education":[
+      {
+        "school":"Ohio University",
+        "degree":"Bachelor of Science in Journalism",
+        "graduated":"2011"
+      },
+      {
+        "school":"William Mason High School",
+        "graduated":"2007"
+      }
+    ],
+    "work": [
+      {
+        "company": "HyperDrive Interactive",
+        "title": "Web Developer",
+        "years": "February 2019 - Present",
+        "description11": "Developed and edited web pages for variety of B2C and B2B clients using HTML, SASS, CSS, JavaScript, with some exposure to ASP.NET MVC and ASP.NET Core",
+        "description12": "Lead developer on BigCommerce (HTML, SASS, Handlebars)",
+        "description13": "Developed landing pages in variety of CMS including WordPress, HubSpot, Shopify and Nexternal (HTML, CSS, some JavaScript/jQuery, PHP)",
+        "description14": "Developed responsive HTML emails in Salesforce Marketing Cloud, MailChimp, Emma, Constant Contact and HubSpot (HTML, CSS)",
+        "description15": "Implemented tracking pixels for Google Analytics, Google Ads, Google Tag Manager and Facebook Pixel (HTML, JavaScript)",
+        "title2": "Project Manager / Web Developer",
+        "years2": "March 2016 - February 2019",
+        "description21": "Worked with variety of B2B and B2C clients to identify needs and goals, and develop digital marketing plans that spanned website optimizations, content strategy, email marketing, SEO, SEM and social media",
+        "description22": "Developed and executed the digital marketing share (included email, paid search, social media, website content and SEO) of a $3M CPG campaign that drove ~15% increase in sales, a 1,000% increase in site traffic and a 300% increase in website conversions (coupon prints with email capture)",
+        "description23": "\"Analyzed performance of digital campaigns and recommended optimizations",
+        "description24": "Developed responsive HTML emails in Salesforce Marketing Cloud, MailChimp, Emma, Constant Contact and HubSpot (HTML, CSS)",
+        "description25": "Developed landing pages in variety of CMS including WordPress, HubSpot, Shopify and Nexternal (HTML, CSS, some JavaScript/jQuery, PHP)"
+      },
+      {
+        "company": "CBT Company",
+        "title": "Web Specialist",
+        "years": "December 2014 - March 2016",
+        "description11": "Designed and developed company blog (WordPress custom theme - HTML, CSS, some PHP)",
+        "description12": "Designed and developed landing pages in custom ecommerce CMS (HTML, CSS)",
+        "description13": "Wrote and executed company's first digital marketing strategy (included website/ecommerce, blog, SEO, email, social media)",
+        "description14": "Presented digital marketing strategy and best practices to a group of owners and CEOs at industry conference",
+        "description15": "Awarded 2014 & 2015 tED Magazine Best of the Best Award",
+        "title2": "Marketing Coordinator",
+        "years2": "March 2016 - February 2019",
+        "description21": "Designed variety of internal and external collateral for print and web, including flyers, brochures, signs, booklets, website banners and newsletters",
+        "description22": "Assisted in event planning and execution",
+        "description23": "Managed all content updates to company website in custom CMS",
+        "description24": "Was the marketing lead on website redesign, with focus on building out ecommerce offerings",
+        "description25": "Emphasized the need for digital marketing to company management, leading to the creation of the Web Specialist role"
+      },
+      {
+        "company": "The Evening Leader",
+        "title": "Staff Writer",
+        "years": "June 2011 - December 2012",
+        "description11": "Wrote variety of breaking news and feature articles for six-day-a-week newspaper",
+        "description12": "Contributed to daily layout of paper (Adobe InDesign), daily website updates (custom CMS)"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Searching Google",
+        "level": "100%"
+      },
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "SASS",
+        "level": "80%"
+      },
+      {
+        "name": "Flexbox",
+        "level": "85%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "25%"
+      },
+      {
+        "name": "Gulp",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "30%"
+      },
+      {
+        "name": "ASP.NET MVC",
+        "level": "40%"
+      },
+      {
+        "name": "ASP.NET Core",
+        "level": "45%"
+      },
+      {
+        "name": "VueJs",
+        "level": "30%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "30%"
+      },
+      {
+        "name": "WordPress",
+        "level": "85%"
+      },
+      {
+        "name": "BigCommerce",
+        "level": "85%"
+      },
+      {
+        "name": "MailChimp",
+        "level": "90%"
+      },
+      {
+        "name": "Salesforce Marketing Cloud",
+        "level": "80%"
+      },
+      {
+        "name": "Adobe Creative Suite",
+        "level": "85%"
+      },
+      {
+        "name": "Google Analytics",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title": "LaRosa's Pizzeria",
+        "category": "HTML, SASS, JavaScript, ASP.NET Core",
+        "image": "larosas.png",
+        "url": "https://www.larosas.com/"
+      },
+      {
+        "title": "Gold Star Chili",
+        "category": "HTML, SASS, JavaScript, ASP.NET Core",
+        "image": "gold-star.png",
+        "url": "https://www.goldstarchili.com/"
+      },
+      {
+        "title": "The Pine Club",
+        "category": "BigCommerce, HTML, SASS, JavaScript, HandlebarsJS",
+        "image": "pineclub.png",
+        "url": "https://thepineclub.com/"
+      },
+      {
+        "title": "Tom & Chee",
+        "category": "HTML, SASS, JavaScript, ASP.NET Core",
+        "image": "tomandchee.png",
+        "url": "https://www.tomandchee.com/"
+      },
+      {
+        "title": "CincyFavorites",
+        "category": "BigCommerce, HTML, SASS, JavaScript, HandlebarsJS",
+        "image": "cincyfavorites.png",
+        "url": "https://www.cincyfavorites.com/"
+      },
+      {
+        "title": "DesertAir Alaska",
+        "category": "HTML, SASS, JavaScript, ASP.NET Core",
+        "image": "desertairalaska.png",
+        "url": "https://desertairalaska.com/"
+      },
+      {
+        "title": "Norton Outdoor Advertising",
+        "category": "HTML, SASS, JavaScript, VueJS, ASP.NET MVC 4",
+        "image": "norton-outdoor.png",
+        "url": "https://www.norton-outdoor.com"
+      },
+
+      {
+        "title": "Barber Foods",
+        "category": "HTML, SASS, ASP.NET MVC 4",
+        "image": "barberfoods.png",
+        "url": "https://www.barberfoods.com/"
+      },
+      {
+        "title": "Boys & Girls Clubs of Greater Houston",
+        "category": "HTML, SASS, Materialize, JavaScript, VueJS, ASP.NET MVC 4",
+        "image": "bgcgh.png",
+        "url": "http://bgcgh.org/"
+      },
+
+      {
+        "title": "Cincinnati Broomball Association",
+        "category": "WordPress, HTML, CSS",
+        "image": "cincinnatibroomball.png",
+        "url": "https://cincinnatibroomball.com/"
+      },
+      {
+        "title": "Montgomery Inn",
+        "category": "WordPress, HTML, CSS",
+        "image": "montgomeryinn.png",
+        "url": "https://www.montgomeryinn.com/"
+      },
+      {
+        "title": "Portfolio Website",
+        "category": "HTML, CSS, ReactJS",
+        "image": "elizabeth-lipton.png",
+        "url": "http://elizabethalipton.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials": [
+      {
+        "text": "I'm a competitive broomball player and travel to several co-ed and women's tournaments throughout the year. My women's team won the National Championship in 2018, so I can call myself a National Champ. I'm on the board for the Cincinnati Broomball Association, and we host leagues for any skill level - talk to me if you ever want to try it out!"
+      },
+      {
+        "text": "I'm the oldest of five kids (plus two step-siblings). Whenever all five of us get together, we play Mario Kart and it gets intense. I try to practice leading up to sibling events."
+      },
+      {
+        "text": "I've been a volunteer at Save the Animals Foundation since 2014, and adopted one of my dogs, Zooey, from the shelter. I really love dogs, and my life mostly revolves around Zooey and my second dog, Phil."
+      },
+      {
+        "text": "I'm more of a winter weather person and love snow."
+      },
+      {
+        "text": "I've been a member of KW Crossfit since 2017, and I've loved learning a new sport and the community there. But I promise I won't talk about it too much. Unless you want to talk about it."
+      },
+      {
+        "text": "I love cake."
+      }
+    ]
+  }
+}
