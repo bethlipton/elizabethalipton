@@ -37,7 +37,7 @@
   },
   "resume":{
     "skillmessage":"I have experience with the following languages, frameworks, and programs. This is not an all-inclusive list.",
-    
+
     "education":[
       {
         "school":"Ohio University",
@@ -49,6 +49,40 @@
         "graduated":"2007"
       }
     ],
+
+    "continuedEducation":[
+      {
+        "course":"Google Tag Manager Fundamentals",
+        "authority":"Google"
+      },
+      {
+        "course":"Google Analytics Certification",
+        "authority":"Google"
+      },
+      {
+        "course":"Google AdWords Search Certification",
+        "authority":"Google"
+      }
+    ],
+
+    "certifications":[
+      {
+        "certification":"Google Tag Manager Fundamentals",
+        "authority":"Google",
+        "issued":"April 2020 - April 2023"
+      },
+      {
+        "certification":"Google Analytics Certification",
+        "authority":"Google",
+        "issued":"February 2020 - February 2021"
+      },
+      {
+        "certification":"Google AdWords Search Certification",
+        "authority":"Google",
+        "issued":"February 2020 - February 2021"
+      }
+    ],
+
     "work": [
       {
         "company": "Randstad Technologies / Procter & Gamble",
