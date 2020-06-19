@@ -50,6 +50,21 @@
       }
     ],
 
+    "continuedEducation":[
+      {
+        "course":"Google Tag Manager Fundamentals",
+        "authority":"Google"
+      },
+      {
+        "course":"Google Analytics Certification",
+        "authority":"Google"
+      },
+      {
+        "course":"Google AdWords Search Certification",
+        "authority":"Google"
+      }
+    ],
+
     "certifications":[
       {
         "certification":"Google Tag Manager Fundamentals",

@@ -37,6 +37,7 @@
   },
   "resume":{
     "skillmessage":"I have experience with the following languages, frameworks, and programs. This is not an all-inclusive list.",
+
     "education":[
       {
         "school":"Ohio University",
@@ -48,11 +49,54 @@
         "graduated":"2007"
       }
     ],
+
+    "continuedEducation":[
+      {
+        "course":"Google Tag Manager Fundamentals",
+        "authority":"Google"
+      },
+      {
+        "course":"Google Analytics Certification",
+        "authority":"Google"
+      },
+      {
+        "course":"Google AdWords Search Certification",
+        "authority":"Google"
+      }
+    ],
+
+    "certifications":[
+      {
+        "certification":"Google Tag Manager Fundamentals",
+        "authority":"Google",
+        "issued":"April 2020 - April 2023"
+      },
+      {
+        "certification":"Google Analytics Certification",
+        "authority":"Google",
+        "issued":"February 2020 - February 2021"
+      },
+      {
+        "certification":"Google AdWords Search Certification",
+        "authority":"Google",
+        "issued":"February 2020 - February 2021"
+      }
+    ],
+
     "work": [
+      {
+        "company": "Randstad Technologies / Procter & Gamble",
+        "title": "UI/UX Developer",
+        "years": "March 2020 - Present",
+        "description11": "Support a variety of P&G brands as a member of the GrowthWorks Bench",
+        "description12": "Developed custom landing pages and optimized/maintained several stores in BigCommerce (HTML, SASS, JavaScript, Handlebars)",
+        "description13": "Developed responsive HTML emails (HTML, CSS)",
+        "description14": "Implemented tracking pixels via Google Tag Manager"
+      },
       {
         "company": "HyperDrive Interactive",
         "title": "Web Developer",
-        "years": "February 2019 - Present",
+        "years": "February 2019 - March 2020",
         "description11": "Developed and edited web pages for variety of B2C and B2B clients using HTML, SASS, CSS, JavaScript, with some exposure to ASP.NET MVC and ASP.NET Core",
         "description12": "Lead developer on BigCommerce (HTML, SASS, Handlebars)",
         "description13": "Developed landing pages in variety of CMS including WordPress, HubSpot, Shopify and Nexternal (HTML, CSS, some JavaScript/jQuery, PHP)",
