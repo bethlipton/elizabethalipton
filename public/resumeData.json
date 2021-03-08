@@ -85,10 +85,19 @@
 
     "work": [
       {
+        "company": "Procter & Gamble",
+        "title": "Web Developer, Oral Care DTC",
+        "years": "November 2020 - Present",
+        "description11": "Developed custom landing pages and optimized/maintained several Oral Care stores in BigCommerce (HTML, SASS, JavaScript, Handlebars)",
+        "description12": "Implemented new tools and functionalities to better track and increase CVR",
+        "description13": "Ensured compliance with company policies across stores",
+        "description14": "Implemented and optimized tracking pixels and tool integrations via Google Tag Manager"
+      },
+      {
         "company": "Randstad Technologies / Procter & Gamble",
         "title": "UI/UX Developer",
-        "years": "March 2020 - Present",
-        "description11": "Support a variety of P&G brands as a member of the GrowthWorks Bench",
+        "years": "March 2020 - November 2020",
+        "description11": "Supported a variety of P&G brands as a member of the GrowthWorks Bench",
         "description12": "Developed custom landing pages and optimized/maintained several stores in BigCommerce (HTML, SASS, JavaScript, Handlebars)",
         "description13": "Developed responsive HTML emails (HTML, CSS)",
         "description14": "Implemented tracking pixels via Google Tag Manager"
