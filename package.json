@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://elizabethalipton.com/",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "node-sass": "^7.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
