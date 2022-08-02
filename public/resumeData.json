@@ -86,12 +86,20 @@
     "work": [
       {
         "company": "Procter & Gamble",
-        "title": "Web Developer, Oral Care DTC",
-        "years": "November 2020 - Present",
-        "description11": "Developed custom landing pages and optimized/maintained several Oral Care stores in BigCommerce (HTML, SASS, JavaScript, Handlebars)",
-        "description12": "Implemented new tools and functionalities to better track and increase CVR",
-        "description13": "Ensured compliance with company policies across stores",
-        "description14": "Implemented and optimized tracking pixels and tool integrations via Google Tag Manager"
+        "title": "Senior Web Development Manager, Oral Care DTC",
+        "years": "January 2022 - Present",
+        "description11": "Piloted server side tagging (sGTM) with Facebook Conversion API (CAPI) and GA4 for the company",
+        "description12": "Lead page speed optimization strategy and implementation",
+        "description13": "Managed end-to-end strategy and implementation of MVT testing for conversion rate optimization",
+        "description14": "Developed custom landing pages and optimized/maintained several Oral Care ecommerce stores in BigCommerce (HTML, SASS, JavaScript, Handlebars)",
+        "description15": "Ensured compliance with company policies across stores",
+        "description16": "Implemented and optimized tracking pixels and tool integrations via Google Tag Manager",
+        "title2": "Web Developer, Oral Care DTC",
+        "years2": "November 2020 - January 2022",
+        "description21": "Developed custom landing pages and optimized/maintained several Oral Care stores in BigCommerce (HTML, SASS, JavaScript, Handlebars)",
+        "description22": "Implemented new tools and functionalities to better track and increase CVR",
+        "description23": "Ensured compliance with company policies across stores",
+        "description24": "Implemented and optimized tracking pixels and tool integrations via Google Tag Manager"
       },
       {
         "company": "Randstad Technologies / Procter & Gamble",
@@ -308,10 +316,10 @@
   "testimonials":{
     "testimonials": [
       {
-        "text": "I'm a competitive broomball player and travel to several co-ed and women's tournaments throughout the year. My women's team won the National Championship in 2018, so I can call myself a National Champ. I'm on the board for the Cincinnati Broomball Association, and we host leagues for any skill level - talk to me if you ever want to try it out!"
+        "text": "I'm a competitive broomball player and travel to several co-ed and women's tournaments throughout the year (I'm now a 3x National Champion). I'm on the board for the Cincinnati Broomball Association, and we host leagues for any skill level - talk to me if you ever want to try it out!"
       },
       {
-        "text": "I'm the oldest of five kids (plus two step-siblings). Whenever all five of us get together, we play Mario Kart and it gets intense. I try to practice leading up to sibling events."
+        "text": "I'm the oldest of five kids (plus six step-siblings). Whenever all five of us get together, we play Mario Kart and it gets intense. I try to practice leading up to sibling events."
       },
       {
         "text": "I've been a volunteer at Save the Animals Foundation since 2014, and adopted one of my dogs, Zooey, from the shelter. I really love dogs, and my life mostly revolves around Zooey and my second dog, Phil."
@@ -323,7 +331,7 @@
         "text": "I've been a member of KW Crossfit since 2017, and I've loved learning a new sport and the community there. But I promise I won't talk about it too much. Unless you want to talk about it."
       },
       {
-        "text": "I love cake."
+        "text": "I love cake, but mostly for the icing."
       }
     ]
   }
