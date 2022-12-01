@@ -67,12 +67,17 @@
 
     "certifications":[
       {
+        "certification":"Google Analytics 4 Certification",
+        "authority":"Google",
+        "issued":"November 2022 - November 2023"
+      },
+      {
         "certification":"Google Tag Manager Fundamentals",
         "authority":"Google",
         "issued":"April 2020 - April 2023"
       },
       {
-        "certification":"Google Analytics Certification",
+        "certification":"Google Analytics UA Certification",
         "authority":"Google",
         "issued":"February 2020 - February 2021"
       },
@@ -89,24 +94,25 @@
         "title": "Senior Web Development Manager, Oral Care DTC",
         "years": "January 2022 - Present",
         "description11": "Piloted server side tagging (sGTM) with Facebook Conversion API (CAPI) and GA4 for the company",
-        "description12": "Lead page speed optimization strategy and implementation",
-        "description13": "Managed end-to-end strategy and implementation of MVT testing for conversion rate optimization",
-        "description14": "Developed custom landing pages and optimized/maintained several Oral Care ecommerce stores in BigCommerce (HTML, SASS, JavaScript, Handlebars)",
-        "description15": "Ensured compliance with company policies across stores",
-        "description16": "Implemented and optimized tracking pixels and tool integrations via Google Tag Manager",
+        "description12": "Lead page speed optimization / Core Web Vitals strategy and implementation",
+        "description13": "Managed end-to-end strategy and implementation of MVT and A/B testing for conversion rate optimization",
+        "description14": "Lead SEO strategy",
+        "description15": "Developed custom landing pages and optimized/maintained several ecommerce stores in BigCommerce (HTML, SASS, JavaScript, Handlebars)",
+        "description16": "Ensured compliance with company security, privacy and accessibility policies across stores",
+        "description17": "Implemented and optimized tracking pixels and tool integrations via Google Tag Manager",
         "title2": "Web Developer, Oral Care DTC",
         "years2": "November 2020 - January 2022",
-        "description21": "Developed custom landing pages and optimized/maintained several Oral Care stores in BigCommerce (HTML, SASS, JavaScript, Handlebars)",
-        "description22": "Implemented new tools and functionalities to better track and increase CVR",
-        "description23": "Ensured compliance with company policies across stores",
+        "description21": "Developed custom landing pages and optimized/maintained several stores in BigCommerce (HTML, SASS, JavaScript, Handlebars)",
+        "description22": "Unlocked new tools and functionalities to improve the user experience across several sites",
+        "description23": "Ensured compliance with company security, privacy and accessibility policies across stores",
         "description24": "Implemented and optimized tracking pixels and tool integrations via Google Tag Manager"
       },
       {
         "company": "Randstad Technologies / Procter & Gamble",
         "title": "UI/UX Developer",
         "years": "March 2020 - November 2020",
-        "description11": "Supported a variety of P&G brands as a member of the GrowthWorks Bench",
-        "description12": "Developed custom landing pages and optimized/maintained several stores in BigCommerce (HTML, SASS, JavaScript, Handlebars)",
+        "description11": "Developed custom landing pages and optimized/maintained several stores in BigCommerce (HTML, SASS, JavaScript, Handlebars)",
+        "description12": "Audited and provided UX recommendations to improve site user experience for several P&G brands",
         "description13": "Developed responsive HTML emails (HTML, CSS)",
         "description14": "Implemented tracking pixels via Google Tag Manager"
       },
@@ -116,16 +122,16 @@
         "years": "February 2019 - March 2020",
         "description11": "Developed and edited web pages for variety of B2C and B2B clients using HTML, SASS, CSS, JavaScript, with some exposure to ASP.NET MVC and ASP.NET Core",
         "description12": "Lead developer on BigCommerce (HTML, SASS, Handlebars)",
-        "description13": "Developed landing pages in variety of CMS including WordPress, HubSpot, Shopify and Nexternal (HTML, CSS, some JavaScript/jQuery, PHP)",
+        "description13": "Developed custom landing pages and templates in variety of CMS including WordPress, HubSpot, Shopify and Nexternal (HTML, CSS, some JavaScript/jQuery, PHP)",
         "description14": "Developed responsive HTML emails in Salesforce Marketing Cloud, MailChimp, Emma, Constant Contact and HubSpot (HTML, CSS)",
         "description15": "Implemented tracking pixels for Google Analytics, Google Ads, Google Tag Manager and Facebook Pixel (HTML, JavaScript)",
         "title2": "Project Manager / Web Developer",
         "years2": "March 2016 - February 2019",
-        "description21": "Worked with variety of B2B and B2C clients to identify needs and goals, and develop digital marketing plans that spanned website optimizations, content strategy, email marketing, SEO, SEM and social media",
-        "description22": "Developed and executed the digital marketing share (included email, paid search, social media, website content and SEO) of a $3M CPG campaign that drove ~15% increase in sales, a 1,000% increase in site traffic and a 300% increase in website conversions (coupon prints with email capture)",
-        "description23": "Analyzed performance of digital campaigns and recommended optimizations",
+        "description21": "Worked with variety of B2B and B2C clients to identify needs and goals, and develop digital marketing plans that spanned website UX optimizations, conversion rate optimization, content strategy, email marketing, SEO, SEM and social media",
+        "description22": "Developed and executed a $3MM digital campaign (included email, paid search, social media, website content, UX optimizations and SEO) that drove a 15% increase in sales, a 1,000% increase in site traffic and a 300% increase in website conversions (coupon prints with email capture)",
+        "description23": "Analyzed performance of digital campaigns (social, search, email) and recommended optimizations",
         "description24": "Developed responsive HTML emails in Salesforce Marketing Cloud, MailChimp, Emma, Constant Contact and HubSpot (HTML, CSS)",
-        "description25": "Developed landing pages in variety of CMS including WordPress, HubSpot, Shopify and Nexternal (HTML, CSS, some JavaScript/jQuery, PHP)"
+        "description25": "Developed custom landing pages and templates in variety of CMS including WordPress, HubSpot, Shopify and Nexternal (HTML, CSS, some JavaScript/jQuery, PHP)"
       },
       {
         "company": "CBT Company",
@@ -175,6 +181,10 @@
       },
       {
         "name": "Bootstrap",
+        "level": "80%"
+      },
+      {
+        "name": "Foundation",
         "level": "80%"
       },
       {
@@ -228,6 +238,14 @@
       {
         "name": "Adobe Creative Suite",
         "level": "85%"
+      },
+      {
+        "name": "InVision",
+        "level": "75%"
+      },
+      {
+        "name": "Figma",
+        "level": "75%"
       },
       {
         "name": "Google Analytics",
@@ -331,7 +349,7 @@
         "text": "I've been a member of KW Crossfit since 2017, and I've loved learning a new sport and the community there. But I promise I won't talk about it too much. Unless you want to talk about it."
       },
       {
-        "text": "I love cake, but mostly for the icing."
+        "text": "I love cupcakes."
       }
     ]
   }
