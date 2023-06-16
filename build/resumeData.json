@@ -93,19 +93,17 @@
         "company": "Procter & Gamble",
         "title": "Senior Web Development Manager, Oral Care DTC",
         "years": "January 2022 - Present",
-        "description11": "Piloted server side tagging (sGTM) with Facebook Conversion API (CAPI) and GA4 for the company",
-        "description12": "Lead page speed optimization / Core Web Vitals strategy and implementation",
-        "description13": "Managed end-to-end strategy and implementation of MVT and A/B testing for conversion rate optimization",
-        "description14": "Lead SEO strategy",
+        "description11": "Drove a 20% increase in CVR managing end-to-end strategy and implementation of MVT and A/B testing for conversion rate optimization in Google Optimize (HTML, CSS, SASS, JS)",
+        "description12": "Lead technical implementation and troubleshooting of tagging and data collection on sites, ensuring data was captured and flowed to platforms (Google Analytics, Segment, media platforms) as expected (HTML, JS)",
+        "description13": "Lead page speed / Core Web Vitals strategy and implementation, resulting in two sites passing all CWV, while others passed FCP and CLS and made a 35% improvement in LCP measured in Google Page Speed Insights",
+        "description14": "Piloted server side tagging (sGTM) with Facebook Conversion API (CAPI) and GA4 for the company",
         "description15": "Developed custom landing pages and optimized/maintained several ecommerce stores in BigCommerce (HTML, SASS, JavaScript, Handlebars)",
-        "description16": "Ensured compliance with company security, privacy and accessibility policies across stores",
-        "description17": "Implemented and optimized tracking pixels and tool integrations via Google Tag Manager",
         "title2": "Web Developer, Oral Care DTC",
         "years2": "November 2020 - January 2022",
         "description21": "Developed custom landing pages and optimized/maintained several stores in BigCommerce (HTML, SASS, JavaScript, Handlebars)",
-        "description22": "Unlocked new tools and functionalities to improve the user experience across several sites",
+        "description22": "Lead technical implementation of new tools and functionalities to improve the user experience across several sites",
         "description23": "Ensured compliance with company security, privacy and accessibility policies across stores",
-        "description24": "Implemented and optimized tracking pixels and tool integrations via Google Tag Manager"
+        "description24": "Implemented and optimized media pixels and tool integrations via Google Tag Manager"
       },
       {
         "company": "Randstad Technologies / Procter & Gamble",
@@ -114,24 +112,25 @@
         "description11": "Developed custom landing pages and optimized/maintained several stores in BigCommerce (HTML, SASS, JavaScript, Handlebars)",
         "description12": "Audited and provided UX recommendations to improve site user experience for several P&G brands",
         "description13": "Developed responsive HTML emails (HTML, CSS)",
-        "description14": "Implemented tracking pixels via Google Tag Manager"
+        "description14": "Implemented media pixels via Google Tag Manager"
       },
       {
         "company": "HyperDrive Interactive",
         "title": "Web Developer",
         "years": "February 2019 - March 2020",
-        "description11": "Developed and edited web pages for variety of B2C and B2B clients using HTML, SASS, CSS, JavaScript, with some exposure to ASP.NET MVC and ASP.NET Core",
-        "description12": "Lead developer on BigCommerce (HTML, SASS, Handlebars)",
+        "description11": "Developed and optimized web pages for variety of B2C and B2B clients using HTML, SASS, CSS, JavaScript, jQuery, with some exposure to ASP.NET MVC, ASP.NET Core, JSON, Vue",
+        "description12": "Lead developer on BigCommerce and Shopify (HTML, SASS, Handlebars)",
         "description13": "Developed custom landing pages and templates in variety of CMS including WordPress, HubSpot, Shopify and Nexternal (HTML, CSS, some JavaScript/jQuery, PHP)",
         "description14": "Developed responsive HTML emails in Salesforce Marketing Cloud, MailChimp, Emma, Constant Contact and HubSpot (HTML, CSS)",
-        "description15": "Implemented tracking pixels for Google Analytics, Google Ads, Google Tag Manager and Facebook Pixel (HTML, JavaScript)",
+        "description15": "Implemented tracking pixels for Google Analytics, Google Ads, Facebook Pixel via Google Tag Manager (HTML, JavaScript) ",
         "title2": "Project Manager / Web Developer",
         "years2": "March 2016 - February 2019",
-        "description21": "Worked with variety of B2B and B2C clients to identify needs and goals, and develop digital marketing plans that spanned website UX optimizations, conversion rate optimization, content strategy, email marketing, SEO, SEM and social media",
+        "description21": "Worked with variety of B2B and B2C clients to identify needs, goals and KPIs, and developed digital marketing plans that spanned website UX optimizations, conversion rate optimization, content strategy, email marketing, SEO, SEM and social media",
         "description22": "Developed and executed a $3MM digital campaign (included email, paid search, social media, website content, UX optimizations and SEO) that drove a 15% increase in sales, a 1,000% increase in site traffic and a 300% increase in website conversions (coupon prints with email capture)",
         "description23": "Analyzed performance of digital campaigns (social, search, email) and recommended optimizations",
-        "description24": "Developed responsive HTML emails in Salesforce Marketing Cloud, MailChimp, Emma, Constant Contact and HubSpot (HTML, CSS)",
-        "description25": "Developed custom landing pages and templates in variety of CMS including WordPress, HubSpot, Shopify and Nexternal (HTML, CSS, some JavaScript/jQuery, PHP)"
+        "description24": "Overhauled agency's reporting templates for client presentations and built the agency's first data dashboards in Google Data Studio",
+        "description25": "Developed responsive HTML emails in Salesforce Marketing Cloud, MailChimp, Emma, Constant Contact and HubSpot (HTML, CSS)",
+        "description26": "Developed custom landing pages and templates in variety of CMS including WordPress, HubSpot, Shopify and Nexternal (HTML, CSS, some JavaScript/jQuery, PHP)"
       },
       {
         "company": "CBT Company",
